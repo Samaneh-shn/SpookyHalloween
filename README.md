@@ -1,0 +1,2 @@
+# SpookyHalloween
+Bachelor Thesis
